@@ -33,7 +33,7 @@ Includes:
 
 ### ✔ 5. Deep Learning Training Support
 - Uses **Transfer Learning on InceptionV3**  
-- Trained on a **1GB ASL Dataset**  
+- Trained on a **1Go ASL Dataset**  
 - Achieves **≈95% accuracy**
 
 ---
