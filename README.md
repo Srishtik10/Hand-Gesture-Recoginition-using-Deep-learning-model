@@ -40,7 +40,8 @@ Includes:
 
 ## 📂 Dataset
 
-The project uses a **1GB ASL Alphabet Dataset** sourced from Kaggle.
+The project uses a **1Go ASL Alphabet Dataset** sourced from Kaggle.
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
 
 Dataset contains:
 - 26 folders for **A–Z**
